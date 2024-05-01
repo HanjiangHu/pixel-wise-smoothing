@@ -1,0 +1,5 @@
+idx	label	predict	radius	correct	time
+0	0	-1	-inf	False	0:02:13.662579
+1	0	-1	-3.6	False	0:01:34.406496
+2	0	-1	-3.25	False	0:01:34.265902
+3	0	0	-0.544	True	0:01:34.912430
