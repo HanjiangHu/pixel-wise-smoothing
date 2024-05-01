@@ -1,6 +1,6 @@
 # Code for AISTATS 2024: Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations
 
-The official code for AISTATS 2024 "Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations".
+The official code for AISTATS 2024 "Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations". Check the [PDF](https://proceedings.mlr.press/v238/hu24a/hu24a.pdf) for more details.
 
 
 ## Preparation
